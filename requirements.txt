@@ -1,0 +1,6 @@
+pytorch==1.11.0
+sklearn
+pandas
+matplotlib
+nibabel
+torchio
